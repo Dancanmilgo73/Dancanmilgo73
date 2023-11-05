@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hey there, my name is Dancan Ngetich, a full-stack software engineer.
+### Hey there, my name is Dancan Ngetich, a full-stack software engineer.
+### Email: dancanmilgo73@gmail.com
 
 
 ## 🌐 Socials:
