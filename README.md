@@ -12,6 +12,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Dancanmilgo73&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 💻 Blogs:
-### REACT ERROR BOUNDARIES: https://medium.com/@dancanngetich/error-boundaries-in-react-30e546c2f641
-### SQL SERVER INDEXES: https://medium.com/@dancanngetich/sql-server-clustered-and-non-clustered-indexes-d9f33d3a7e1f
+## 💻 Blogs:
+# REACT ERROR BOUNDARIES: https://medium.com/@dancanngetich/error-boundaries-in-react-30e546c2f641
+# SQL SERVER INDEXES: https://medium.com/@dancanngetich/sql-server-clustered-and-non-clustered-indexes-d9f33d3a7e1f
